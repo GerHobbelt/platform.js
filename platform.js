@@ -369,7 +369,7 @@
       'Konqueror',
       'Lunascape',
       'Maxthon',
-      { 'label': 'Microsoft Edge', 'pattern': '(?:Edge|EdgA|EdgiOS)' },
+      { 'label': 'Microsoft Edge', 'pattern': '(?:Edge|Edg|EdgA|EdgiOS)' },
       'Midori',
       'Nook Browser',
       'PaleMoon',
@@ -737,7 +737,7 @@
     // Detect non-Opera (Presto-based) versions (order is important).
     if (!version) {
       version = getVersion([
-        '(?:Cloud9|CriOS|CrMo|Edge|EdgA|EdgiOS|FxiOS|IEMobile|UCBrowser|Iron|Opera ?Mini|OPiOS|OPR|Raven|SamsungBrowser|Silk(?!/[\\d.]+$))',
+        '(?:Cloud9|CriOS|CrMo|Edge|Edg|EdgA|EdgiOS|FxiOS|IEMobile|UCBrowser|Iron|Opera ?Mini|OPiOS|OPR|Raven|SamsungBrowser|Silk(?!/[\\d.]+$))',
         'Version',
         'HeadlessChrome',
         qualify(name),
