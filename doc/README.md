@@ -1,4 +1,4 @@
-# Platform.js <span>v1.3.5-9</span>
+# Platform.js <span>v1.3.5-11</span>
 
 <!-- div class="toc-container" -->
 
@@ -54,7 +54,7 @@
 
 <!-- div -->
 
-### <a name="platform"></a> `platform` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1087 "View in source") [&#x24C9;][1]
+### <a name="platform"></a> `platform` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1090 "View in source") [&#x24C9;][1]
 
 The platform object.
 
@@ -66,7 +66,7 @@ The platform object.
 
 <!-- div -->
 
-### <a name="platformdescription"></a> `platform.description` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1095 "View in source") [&#x24C9;][1]
+### <a name="platformdescription"></a> `platform.description` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1098 "View in source") [&#x24C9;][1]
 
 The platform description.
 
@@ -78,7 +78,7 @@ The platform description.
 
 <!-- div -->
 
-### <a name="platformlayout"></a> `platform.layout` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1106 "View in source") [&#x24C9;][1]
+### <a name="platformlayout"></a> `platform.layout` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1109 "View in source") [&#x24C9;][1]
 
 The name of the browser's layout engine.
 <br>
@@ -94,7 +94,7 @@ The list of common layout engines include:<br>
 
 <!-- div -->
 
-### <a name="platformmanufacturer"></a> `platform.manufacturer` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1119 "View in source") [&#x24C9;][1]
+### <a name="platformmanufacturer"></a> `platform.manufacturer` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1122 "View in source") [&#x24C9;][1]
 
 The name of the product's manufacturer.
 <br>
@@ -112,7 +112,7 @@ The list of manufacturers include:<br>
 
 <!-- div -->
 
-### <a name="platformname"></a> `platform.name` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1135 "View in source") [&#x24C9;][1]
+### <a name="platformname"></a> `platform.name` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1138 "View in source") [&#x24C9;][1]
 
 The name of the browser/environment.
 <br>
@@ -134,7 +134,7 @@ eg. "Chrome Mobile", "Firefox Mobile", "IE Mobile" and "Opera Mobile"
 
 <!-- div -->
 
-### <a name="platformos"></a> `platform.os` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1180 "View in source") [&#x24C9;][1]
+### <a name="platformos"></a> `platform.os` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1183 "View in source") [&#x24C9;][1]
 
 The name of the operating system.
 
@@ -172,7 +172,7 @@ Creates a new platform object.
 
 <!-- div -->
 
-### <a name="platformprerelease"></a> `platform.prerelease` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1143 "View in source") [&#x24C9;][1]
+### <a name="platformprerelease"></a> `platform.prerelease` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1146 "View in source") [&#x24C9;][1]
 
 The alpha/beta release indicator.
 
@@ -184,7 +184,7 @@ The alpha/beta release indicator.
 
 <!-- div -->
 
-### <a name="platformproduct"></a> `platform.product` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1156 "View in source") [&#x24C9;][1]
+### <a name="platformproduct"></a> `platform.product` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1159 "View in source") [&#x24C9;][1]
 
 The name of the product hosting the browser.
 <br>
@@ -203,7 +203,7 @@ The list of common products include:
 
 <!-- div -->
 
-### <a name="platformtostring"></a> `platform.toString()` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L623 "View in source") [&#x24C9;][1]
+### <a name="platformtostring"></a> `platform.toString()` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L626 "View in source") [&#x24C9;][1]
 
 Returns `platform.description` when the platform object is coerced to a string.
 
@@ -222,7 +222,7 @@ Returns `platform.description` when the platform object is coerced to a string.
 
 <!-- div -->
 
-### <a name="platformua"></a> `platform.ua` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1164 "View in source") [&#x24C9;][1]
+### <a name="platformua"></a> `platform.ua` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1167 "View in source") [&#x24C9;][1]
 
 The browser's user agent string.
 
@@ -234,7 +234,7 @@ The browser's user agent string.
 
 <!-- div -->
 
-### <a name="platformversion"></a> `platform.version` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1172 "View in source") [&#x24C9;][1]
+### <a name="platformversion"></a> `platform.version` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1175 "View in source") [&#x24C9;][1]
 
 The browser/environment version.
 
@@ -256,7 +256,7 @@ The browser/environment version.
 
 <!-- div -->
 
-### <a name="platformosarchitecture"></a> `platform.os.architecture` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1188 "View in source") [&#x24C9;][1]
+### <a name="platformosarchitecture"></a> `platform.os.architecture` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1191 "View in source") [&#x24C9;][1]
 
 The CPU architecture the OS is built for.
 
@@ -268,7 +268,7 @@ The CPU architecture the OS is built for.
 
 <!-- div -->
 
-### <a name="platformosfamily"></a> `platform.os.family` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1201 "View in source") [&#x24C9;][1]
+### <a name="platformosfamily"></a> `platform.os.family` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1204 "View in source") [&#x24C9;][1]
 
 The family of the OS.
 <br>
@@ -286,7 +286,7 @@ Common values include:<br>
 
 <!-- div -->
 
-### <a name="platformostostring"></a> `platform.os.toString()` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1217 "View in source") [&#x24C9;][1]
+### <a name="platformostostring"></a> `platform.os.toString()` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1220 "View in source") [&#x24C9;][1]
 
 Returns the OS string.
 
@@ -305,7 +305,7 @@ Returns the OS string.
 
 <!-- div -->
 
-### <a name="platformosversion"></a> `platform.os.version` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1209 "View in source") [&#x24C9;][1]
+### <a name="platformosversion"></a> `platform.os.version` [&#x24C8;](https://github.com/GerHobbelt/platform.js/blob/master/platform.js#L1212 "View in source") [&#x24C9;][1]
 
 The version of the OS.
 

@@ -22,10 +22,10 @@
   },
   "devDependencies": {
     "@gerhobbelt/docdown": "0.7.3-5",
-    "gulp": "3.9.1",
-    "@gerhobbelt/gulp-fncallback": "2.0.3-6",
+    "gulp": "4.0.2",
+    "@gerhobbelt/gulp-fncallback": "2.0.3-8",
     "qunitjs": "2.4.1",
-    "replace": "0.1.0",
+    "replace": "1.1.1",
     "requirejs": "2.3.6"
   },
   "files": [

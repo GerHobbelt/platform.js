@@ -1,4 +1,4 @@
-# Platform.js v1.3.5-9
+# Platform.js v1.3.5-11
 
 A platform detection library that works on nearly all JavaScript platforms.
 

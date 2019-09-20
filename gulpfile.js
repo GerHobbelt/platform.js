@@ -41,4 +41,4 @@ gulp.task('patch-version', function () {
 
 
  
-gulp.task('default', ['patch-version']);
+gulp.task('default', gulp.series('patch-version'));
